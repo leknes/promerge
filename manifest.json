@@ -1,0 +1,9 @@
+{
+	"id": "promerge",
+	"name": "Promerge",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Provides a unique way of merging files and directories into an intelligible folder where the latest version of a project can be observed.",
+	"author": "Leonhard Senkel", 
+	"isDesktopOnly": false
+}
