@@ -214,9 +214,7 @@ export default class PromergePlugin extends Plugin {
 
 	async onload() {
 		await this.loadSettings()
-
-		new Notice(this.settings.mergeAutomatically)
-
+		
 		this.addSettingTab(new PromergeSettingTab(this.app, this));
 	
 		this.addRibbonIcon(ICON, TITLE, async () => {
