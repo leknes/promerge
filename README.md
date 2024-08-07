@@ -11,6 +11,6 @@ The folders to merge are called branches and have to start with an appropriate d
 
 A global merge can be created by using the ribbon menu on the right, and a folder-scoped merge can be created by using the folder menu.
 
-Then, for each branch, the files are copied into a merge folder. The catch is, however, that for instance, when there is a file with the path "2024.07.30/Some directory/Example file.md" and a file with the path "2024.08.02 - First version/Some directory/Example file.md", then only the latter will be copied into the merge folder since it is the most recent file.
+Then, for each branch, the files are copied into a merge folder. The cool thing is, however, that for instance, when there is a file with the path "2024.07.30/Some directory/Example file.md" and a file with the path "2024.08.02 - First version/Some directory/Example file.md", then only the latter will be copied into the merge folder since it is the most recent file.
 
 The name of the merge folder, and if a merge should automatically be created when editing a branch, can also be configured in the settings.
